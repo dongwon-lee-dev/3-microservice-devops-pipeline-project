@@ -5,6 +5,7 @@
 ### Summary: Each branch of the repository is a microservice. The Jenkins file in each branch is responsible for each deployment.
 1. Make each microservice a Docker image and push it to Docker Hub
 2. Deploy the images in Docker Hub to Kubernetes
+![Summary](devops.png)
 
 Inspired by jaiswaladi246
 https://youtu.be/SO3XIJCtmNs?si=jnQylVoH-SoZS6Sp
